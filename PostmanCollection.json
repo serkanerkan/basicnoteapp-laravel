@@ -18,7 +18,7 @@
 							"formdata": [
 								{
 									"key": "email",
-									"value": "aslanmsalih@gmail.com",
+									"value": "serkan.erkan@mobillium.com",
 									"type": "text"
 								},
 								{
@@ -53,7 +53,7 @@
 							"formdata": [
 								{
 									"key": "email",
-									"value": "aslanmsalih@gmail.com",
+									"value": "serkan.erkan@mobillium.com",
 									"type": "text"
 								}
 							],
@@ -86,13 +86,13 @@
 							"formdata": [
 								{
 									"key": "full_name",
-									"value": "Mehmet Salih Aslan",
+									"value": "Serkan",
 									"description": "required|max:255",
 									"type": "text"
 								},
 								{
 									"key": "email",
-									"value": "aslanmsalih23@gmail.com",
+									"value": "serkan.erkan@mobillium.com",
 									"description": "required|email|unique:users,email",
 									"type": "text"
 								},
@@ -226,12 +226,12 @@
 							"urlencoded": [
 								{
 									"key": "full_name",
-									"value": "Mehmet Salih Aslann",
+									"value": "Serkan",
 									"type": "text"
 								},
 								{
 									"key": "email",
-									"value": "aslanmsalih@gmail.com",
+									"value": "serkan.erkan@mobillium.com",
 									"type": "text"
 								}
 							],
