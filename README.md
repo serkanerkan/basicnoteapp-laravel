@@ -10,13 +10,14 @@
 ## Installation
 
 ### Deploy to Heroku
-1. You need to have Heroku Account for deploy project to Heroku. 
-If you don't have one create from [here](https://www.heroku.com/).
-3. Login Heroku.
-2. Click Deploy to Heroku button.
-3. Complete deploy.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/mobillium/basicnoteapp-laravel.git)
+1. You need to have Heroku Account for deploy project to Heroku.
+   If you don't have one create from [here](https://www.heroku.com/).
+2. Login Heroku.
+3. Click Deploy to Heroku button.
+4. Complete deploy.
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/serkanerkan/basicnoteapp-laravel.git)
 
 ### Postman
 
@@ -29,7 +30,7 @@ If you don't have one create from [here](https://www.heroku.com/).
 
 ### Mobile App Design
 
-[Figma Design File](https://www.figma.com/file/6m1vGJThLxr1VRTOVQNr8m/BasicNote-App) 
+[Figma Design File](https://www.figma.com/file/6m1vGJThLxr1VRTOVQNr8m/BasicNote-App)
 
 ## License
 
